@@ -1,0 +1,52 @@
+#bod{
+	background-color: #33CCFF;
+}
+
+#list{
+	background-color: yellow;
+	width: 500px;
+	height:700px;
+	border-radius: 30px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 35px;
+	margin: 0 auto;
+	line-height: 52px;
+
+}
+
+#heading{
+	text-align: center;
+	font-family: "Brush Script MT", cursive;
+	font-size: 40px;
+}
+
+#eight{
+	background-color: white;
+	border-radius: 20px;
+	top: 0px;
+	width: 600px;
+	margin: 0 auto;
+}
+#support{
+	background-color: #ff4d4d;
+	width: 200px;
+	float: left;
+	border-radius: 25px;
+}
+
+#join{
+	background-image: url("../images/cps1.png");
+	background-size: 1500px 1000px;
+	background-repeat: no-repeat;
+}
+.whatwedo{
+	color: black;
+	float: left;
+	font-family: "Andale Mono", AndaleMono, monospace;
+	font-size: 35px;
+	line-height: 85px;
+}
+#wrapper{
+	margin: 0 auto;
+	width: 900px;
+}
